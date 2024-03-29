@@ -1,0 +1,8 @@
+fr\intiformation\mapstructdemopro\entity\Product.class
+fr\intiformation\mapstructdemopro\dto\ProductDto.class
+fr\intiformation\mapstructdemopro\mapper\ProductMapper.class
+fr\intiformation\mapstructdemopro\controller\ProductController.class
+fr\intiformation\mapstructdemopro\entity\Item.class
+fr\intiformation\mapstructdemopro\mapper\ProductMapperImpl.class
+fr\intiformation\mapstructdemopro\MapStructDemoProApplication.class
+fr\intiformation\mapstructdemopro\repository\ProductRepository.class
